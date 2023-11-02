@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pic2.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "nature image";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Virtual assistant",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "It work as Virtual assistant where you say or write anything, it will repeat,      It will open site if you say open YouTube, open google.      It will open site if you say open YouTube, open google.   ",
+    url: "https://anshita25ja.github.io/Virtual-Assistant/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Development for project-News App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " News app by using HTML,CSS, JavaScript(fetch API)",
+    url: "https://anshita25ja.github.io/News_App/",
   },
   {
-    title: "My Resume Site",
+    title: "My weather_app",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "weather app by using HTML,CSS, JavaScript(fetch API.",
+    url: "https://anshita25ja.github.io/weather_app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "youtube content",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "this youtube link is about to project output of ffront-end development",
+    url: "https://youtube.com/@anshitajaiswal5721?si=g_Mg1cJ3I_evorJw",
   },
 ];
 
